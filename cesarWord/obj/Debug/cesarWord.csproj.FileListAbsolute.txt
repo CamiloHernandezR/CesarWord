@@ -1,0 +1,9 @@
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\CesarLLav\cesarWord\obj\Debug\cesarWord.csprojAssemblyReference.cache
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\CesarLLav\cesarWord\obj\Debug\cesarWord.Form1.resources
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\CesarLLav\cesarWord\obj\Debug\cesarWord.Properties.Resources.resources
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\CesarLLav\cesarWord\obj\Debug\cesarWord.csproj.GenerateResource.cache
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\CesarLLav\cesarWord\bin\Debug\cesarWord.exe.config
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\CesarLLav\cesarWord\bin\Debug\cesarWord.exe
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\CesarLLav\cesarWord\bin\Debug\cesarWord.pdb
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\CesarLLav\cesarWord\obj\Debug\cesarWord.exe
+C:\Users\magnu\Desktop\CuatriActual\Seguridad\CesarLLav\cesarWord\obj\Debug\cesarWord.pdb
